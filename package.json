@@ -2,7 +2,7 @@
   "name": "dhanish-patel-portfolio",
   "homepage": "https://Dhanish2603/github.io/React-Portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@emotion/react": "^11.11.0",
@@ -23,6 +23,7 @@
     "react-scroll": "^1.8.7",
     "styled-components": "^5.3.5",
     "typewriter-effect": "^2.19.0",
+    "vercel": "^32.2.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
