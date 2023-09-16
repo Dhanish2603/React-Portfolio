@@ -1,4 +1,9 @@
-import ii from "../images/images.jpeg"
+import  shreeambe from "../images/shree ambe1.png"
+import  solar from "../images/solar1.png"
+import globalupdate from "../images/GlobalUpdate.jpg"
+import game from "../images/game.png"
+import notes from "../images/notesmaker.png"
+import tshirt from "../images/tshirt.png"
 export const Bio = {
   name: "Dhanish Patel",
   roles: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
@@ -8,9 +13,9 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1GeDDUE-1s8oYIR_QPRlwvD_iP0zEm30u/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/dhanish-patel-17829320b/",
-  twitter: " ",
-  insta: " ",
-  facebook: "",
+  twitter: "https://twitter.com/Dhnish4",
+  insta: "https://www.instagram.com/dhanish_ptl_26/",
+  // facebook: "",
 };
 
 export const skills = [
@@ -185,7 +190,7 @@ export const projects = [
     id: 0,
     title: "GlobalUpdate",
     date: "1 Aug 2023 - 15 Aug 2023",
-    // image:ii,
+    image:globalupdate,
     
     description:
     "Developed a dynamic News Website with authentication, categorized news rendering, bookmarking, and real-time notifications. Enhanced user experience and demonstrated strong web development skills.",
@@ -199,6 +204,7 @@ export const projects = [
     id: 1,
     title: "Shree Ambe Engineering",
     date: "1 Feb 2023 - 15 Feb 2023",
+    image:shreeambe,
     description:
       "I completed this project with other teammates of Wictronix team during Internship.This website is fully responsive.This project is created to get information about the firm as per the client requirements.",
      tags: [
@@ -215,6 +221,7 @@ export const projects = [
     id: 2,
     title: "Success Technocrat",
     date: "16 Feb 2023 - 1 March 2023",
+    image:solar,
     description:
       "I completed this project with other teammates of Wictronix team during Internship.This website is fully responsive.This project is created to get information about the firm as per the client requirements.",
      tags: [
@@ -231,6 +238,7 @@ export const projects = [
     id: 3,
     title: "Tic Tac toe",
     date: " 23 June 2023 ",
+    image:game,
     description:
       "This project was to create a fully functional and interactive game that allowed users to engage in the timeless battle of X's and O's.",
      tags: [
@@ -247,6 +255,7 @@ export const projects = [
     id: 4,
     title: "NotesMaker",
     date: " 24 June 2023- 25 June 2023 ",
+    image:notes,
     description:
       "This project was created during learning javascript.It includes storing notes in localstorage of browser to add the notes.This can help user to note down all important notes that can help him.",
      tags: [
@@ -262,6 +271,7 @@ export const projects = [
     id: 5,
     title: "Tshirt website",
     date: "  ",
+    image:tshirt,
     description:
       " This website is creative and tried to make in a Tshirt form.This project consits for to make a Tshirt website where the website looks like in a tshirt form so user can be attracted.",
      tags: [
