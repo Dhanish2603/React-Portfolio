@@ -6,6 +6,10 @@ import notes from "../images/notesmaker.png";
 import cpp from "../images/c++.f00d9334f1e6c0da4960a74ebe7769cb.svg";
 import tshirt from "../images/tshirt.png";
 import java from "../images/java-horizontal.59ff7120213c009e8c7566ecd01c5f22.svg";
+import finportal from "../images/finportal.PNG";
+import reactmeals from "../images/reactmeals.PNG";
+import weatherbot from "../images/weatherbot.PNG";
+
 export const Bio = {
   name: "Dhanish Patel",
   roles: ["Full Stack Developer", "UI/UX Designer", "Programmer"],
@@ -52,6 +56,11 @@ export const skills = [
         name: "Next Js",
         image:
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACTklEQVR4Ab1XAaQqURB9DyohSykREpRIQSAlBCoECKUFCSRCBBEAaSEABQEoCIEASCwAUICALgCo83do0//9v819XX845O7VnDkzOzP7JWGaBd3C3IJpQVjAHeJ+Rs9a97vKLGrBsB1KgMhEP3FMUUwt4ENMfxr1yQIU4SSjRkbeOZtERmHk6pXQVDlnkHh9S+QLTm1hkiz4n/gzFQuny9FoFLquE+i34x+n02k0m00UCoV3BIzn3MMJrVYLtp1OJ0cS/X4f5/MZhmG8IyDsWtDfEaDIn2232/3zbrvdxuFwwGg04qRBt+VnETBNE0IIkE2n07/erdfrWK/X6Ha73Hb9ZXII3G43ivy3dNRqtZe7lUoFs9mM6oBDwCQCgquALT1FT3a5XF7qIZ/PYzgcolqtcggIIgBZAgRKB6lCRalp2uM8k8mAVMrlchwC+DEBipycE4n5fP44j8ViKJVKSCaTbAJCpgaez4vFIsjoWa/XA50FAgEkEgmEw2F2CkxZBZ5Br5tt1ITcbjd8Ph88Hg+7CBefECCsVitS4aVJcV9D/VMCVITk/Hq9YrPZyBBo2a1YMGvAcQYcj0cCtWMugcdYNhjDiBrP25mx3++x3W6RzWZZ8isfxzQLlsslJpMJpYY5jhkqcOH1ejEYDDAej9FoNOByuZxGsfqVzC7KTqcDSkkqleKsZOqX0mAwiHK5DGrJfr+fs5SqX8sjkQji8ThCoRC+v78Za7l6JagrUh3YkUuZpqgwDaecc9VYSDoV5Fg+at7n+eLN57kuE/EvzHr/Kvs31aYAAAAASUVORK5CYII=",
+      },
+      {
+        name: "Typescript",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwxd8UxeMYxeMYwd8Ulc8Uab8MOa8Kat9/T4PFRicy1yefp7/j///9oltGEqNmBhsAyAAAABXRSTlMArf3/rfs1Bc0AAACtSURBVHgBY2BUNoYDIwEGZ2MkYMIAkkRIMxijgIHkhqUBgbFpeXkyiGvaORMIlkafvTsZxDXbexcIHgPxLbDs7913T+9efXfe+llgvaGpd6eHVt5dFpoMNfnuNOPou6dKjRHcqLt35yHJmr69e3cbgmsc/ufu/WCErHH43pvJcG58WPhbJG7m7e67N4IR3Lt3gSQkYHe3Gkd1z9xXbAQJ9tBgkL+SgcHOghwpDgBq2n/cnDReoAAAAABJRU5ErkJggg==",
       },
       {
         name: "HTML",
@@ -113,7 +122,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAMFBMVEVHcEz0TCf5TijxSyb1TSf5TifrSSX2TSf0TCf2TSf6TijrSSX0TCf4TSf7TyjsSSU79qcKAAAADHRSTlMA4e4iR1YQO820ZICAJSLHAAAA6ElEQVQokXWSWRLEIAhEAfdE9P63HcDSLGO6kvy8NNIIwE0+Zw8fCtQahW/2SQ+DDTc0+En/vYEwwdH7jiZmFhpdMXN6+FiVHYAbpcO9pkFUmF/nBmSuVd7z6nnSgEqEcY3RPxMpEypP6zGK48g4vYmqSZ0CO3pwo2dKMH36UcglAkTLi5DrFPOA2rPBLMEWHc56upGH5C+Py2qQKyI3bmhXu6hGsVCNJ7tolyGcnce01kr4ca7NNhuj27okgzZbZK38uBZntEh8M7rXhVrl3nWMlOClKxFu1nPSHZt0z0Yi+lx5V8qjzx+XBhDROe95mQAAAABJRU5ErkJggg==",
       },
       {
         name: "GitHub",
@@ -126,6 +135,11 @@ export const skills = [
           "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
       },
       {
+        name: "DigitalOcean",
+        image:
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAANlBMVEVHcEwAgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8AgP8Dq6hIAAAAEnRSTlMAPpDQ7f9p9ocb4V64DJ53Kn43FLPEAAAAvElEQVR4AY3QwRLCIAxF0QfwANq02v//WalEM5iNZ9PFnUlK8BViymROMeBXqTRtSX3jogZrgU7xzddOldq+t0Q1J+s+6Xg7Tt2LodgYtfPtAaBaW2v9/I1gIbq18daxePJ2IXFI+JE5yPxEGJu7oQ4sWM1lGebvKPYnXl3ft9ecMzGF9TB6RUzb5/Hziks8qSt91MYAH0OmnbtdV7tdQ4xSqaAiyRM3fnUXD998FJgiIsViCjDmqEmKTXwBq/MJdGBSh7MAAAAASUVORK5CYII=",
+      },
+      {
         name: "VS Code",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
@@ -133,12 +147,12 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAXVBMVEUAAAD/cED/ajX/azf/bDf/bDb/bDf/azb/aDj/bDf/bTf/bTX/azf/bDf/ajX/bDb/cDD/bDf/bDb/bTX/bDf/azf/bTf/bDb/bDb/azb/bDj/bDb/bjf/bDj/ajhLM8F2AAAAH3RSTlMAEGCfz+//XyCQj4/fvzCgEO/PYK9w34BQoIB/T0Bgzb7ZEAAAAN1JREFUeAF1kolugzAQRMcYT5dkUyhtQ3r+/2dWGalaQbxPJ7zZw7IRlKGOjWxjfTI8YlNjUI+RcuKBc9mVOx+4IHjueLesPrwZRMm8e1HglHnyrAF9r71oAOa+b7wzAUvmxUvBkPrVSb5iznyFacaaeL4BF3JF63uNfyevyDxp2g+pd2AjiZZ4btrhqiXj1xJ54KZL/9i/gE/+83VzHXNgUJXY8a2mecIBTMwT+jbmCRrUIk1suLN4lnBAWJJwS569EuGzHmN4qOKYKNhjM4P2gw7ld14b2dY6RDX+ALhIFgGJ//ETAAAAAElFTkSuQmCC",
       },
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAA3lBMVEUwMzswMzwvMjsnMjwcMTw+NDl7OzSASEhQO0AKLDeoQiz9UBv/cmLOYlgvMjqEPDLyTh7xSxayWFIdLznPSCX2b2AvMTrXSSQuMTn0TgP/b1sAKyKTQ2fSU5q6UEC4e4m3lbCUdIYjHx8sLjYuMDgiLSGETs2oW/+iWf8gJzUApN0Zwf8sLTQtLzcoLixoQ56mUv8oi7wavP4vJSePUt8vHhstIzIrLDMtLjYsLTUiGBNCeIBgo74pWnUleaESuXgA0n4sNDgrLDQei2AKz4MtHC8ic1QXp28tFi0nT0NYZc4KAAABU0lEQVR4AXyKAxbDQBQAf2w7NWLj/mfrqnjqrGcWMBxwHwBN9kbhDyiyT7zwhklsgQeMKMkIBaFqPHI8jzxPEXUDY2IskUkabcExXIRnEvwAO5sHmyCG7k+MNGohtm00xYRFioZcjCMh0I2faAXUQkoJEiNDmGaem5HEJMRpnOJ5OJ4Q/vlyvd0fMYvPOI6f8bMoq7quq6btuq7tB+JieBLGCbd6Xrp1Xbtlo5bFYq9JXF91jkUCAjEQBOcZ3Oc6ixMB1v3/H6I7uFW8K3bl8JDZD4kMuWSJz2uvKSXBh9bApQ95e5Uhi8fTGSwOeZEfDEGSgWh0ZUXqxu+8pgy9qCpG13YEUklIVUUNvfXlizRGRGK0GCMlcZgbkzRCEjdUdGMfXxEz46aprbqqbBpM4zVBgWysacz6epgnTA0BK5HmgWsa37whPoGchj0n18wLu39cAJEJauzrHzG4AAAAAElFTkSuQmCC",
       },
     ],
   },
@@ -228,31 +242,58 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "",
-    date: "1 Aug 2023 - 15 Aug 2023",
+    title: "DailyInsight",
+    date: " Aug 2023 -  Aug 2023",
     image: globalupdate,
 
     description:
       "Developed a dynamic News Website with authentication, categorized news rendering, bookmarking, and real-time notifications. Enhanced user experience and demonstrated strong web development skills.",
     tags: ["ReactJs", "MongoDb", "Node", "Express"],
     category: "web app",
-    github: "https://github.com/Dhanish2603/GlobalUpdate",
-    webapp: "https://github.com/Dhanish2603/GlobalUpdate",
+    github: "https://github.com/Dhanish2603/DailyInsight",
+    webapp: "http://139.59.60.246:5000/home",
   },
   {
     id: 1,
-    title: "Shree Ambe Engineering",
-    date: "1 Feb 2023 - 15 Feb 2023",
-    image: shreeambe,
+    title: "FinPortal",
+    date: " Nov 2023 -  Nov 2023",
+    image: finportal,
+
     description:
-      "I completed this project with other teammates of Wictronix team during Internship.This website is fully responsive.This project is created to get information about the firm as per the client requirements.",
-    tags: ["Html", "Css", "Javascript", "Js Libraries"],
-    category: "Website",
-    github: "https://shreeambeengg.com/",
-    webapp: "https://shreeambeengg.com/",
+      "Developed Finportal: Firebase-based app enabling ITR document submission with secure authentication. Integrated admin panel for CA connectivity and streamlined payment handling.",
+    tags: ["ReactJs", "ContextApi", "Firebase", "Js"],
+    category: "web app",
+    github: "https://github.com/Dhanish2603/Finportal",
+    webapp: "https://monkfish-app-79nac.ondigitalocean.app/",
   },
   {
     id: 2,
+    title: "WeatherBot",
+    date: " Oct 2023 -  Oct 2023",
+    image: weatherbot,
+
+    description:
+      "Developed a Telegram bot using Node.js and MongoDB to securely store user data. Enables users to instantly retrieve live weather updates by entering city names,showcasing seamless integration for real-time weather information.",
+    tags: ["NodeJs", "ExpressJs", "Mongodb"],
+    category: "web app",
+    github: "https://github.com/Dhanish2603/Weather-Bot",
+    webapp: "https://web.telegram.org/k/#@weather_forecast_dhanish_bot",
+  },
+  {
+    id: 3,
+    title: "QuiickBitee",
+    date: "",
+    image: reactmeals,
+    description:
+      "QuiickBitee is a modern, responsive food ordering app designed to provide users with a seamless and enjoyable experience. The frontend is built with a mobile-first approach and incorporates dynamic features to handle the order process effortlessly",
+    tags: ["ReactJs", "Redux", "Javascript"],
+    category: "Website",
+    github: "https://github.com/Dhanish2603/QuiickBitee",
+    webapp: "https://quiickbitee.netlify.app/",
+  },
+
+  {
+    id: 4,
     title: "Success Technocrat",
     date: "16 Feb 2023 - 1 March 2023",
     image: solar,
@@ -264,9 +305,21 @@ export const projects = [
     webapp: "https://successtechnocrat.com/",
   },
   {
-    id: 3,
+    id: 5,
+    title: "Shree Ambe Engineering",
+    date: "1 Feb 2023 - 15 Feb 2023",
+    image: shreeambe,
+    description:
+      "I completed this project with other teammates of Wictronix team during Internship.This website is fully responsive.This project is created to get information about the firm as per the client requirements.",
+    tags: ["Html", "Css", "Javascript", "Js Libraries"],
+    category: "Website",
+    github: "https://shreeambeengg.com/",
+    webapp: "https://shreeambeengg.com/",
+  },
+  {
+    id: 6,
     title: "Tic Tac toe",
-    date: " 23 June 2023 ",
+    date: "  June 2023 ",
     image: game,
     description:
       "This project was to create a fully functional and interactive game that allowed users to engage in the timeless battle of X's and O's.",
@@ -276,7 +329,7 @@ export const projects = [
     webapp: "https://tictactoedhanish.netlify.app/",
   },
   {
-    id: 4,
+    id: 7,
     title: "NotesMaker",
     date: " 24 June 2023- 25 June 2023 ",
     image: notes,
@@ -287,16 +340,4 @@ export const projects = [
     github: "https://github.com/Dhanish2603/NotesMaker",
     webapp: "https://dhanish2603.github.io/NotesMaker/",
   },
-  // {
-  //   id: 5,
-  //   title: "Tshirt website",
-  //   date: "  ",
-  //   image: tshirt,
-  //   description:
-  //     " This website is creative and tried to make in a Tshirt form.This project consits for to make a Tshirt website where the website looks like in a tshirt form so user can be attracted.",
-  //   tags: ["Html", "Css", "Javascript", "Js Libraries"],
-  //   category: "Website",
-  //   github: "https://github.com/Dhanish2603/T-shirt",
-  //   webapp: "https://dhanish2603.github.io/T-shirt/",
-  // },
 ];
