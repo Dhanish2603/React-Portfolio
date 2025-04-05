@@ -247,15 +247,15 @@ export const education = [
     desc: "I completed my class 12 high school education at Bright School, Vadodara, where I studied Science.",
     degree: "GHSEB",
   },
-  {
-    id: 2,
-    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAdCAMAAAD8QJ61AAAAVFBMVEVHcEyXMV6aPWdCO4k8NIc4MYY4M4c5NIc+N4g8NYg/N4g9N4k8NIdBPIvmIiTjHybkHiXjHybkICbkHyXlISbjJCnkHybkICbkHyXiICjoISLjHyakUh5YAAAAHHRSTlMAFQlKw//v3palY36yMjjs/4st13kgZqCxSFbF+AG0+gAAAVtJREFUeAF0UQWCAjEMXMnEc1ec/38U90Il7hk+zjhOw+8zExgi+suGxEyhpuxf9WyzWLiKKsUXfQI0XignQnX6guWjFnHuAyg9vYz7EKx0wZcOKiM6g7pk+Pu/WCXZpwFwMWhtcTagsD6CnOCytdVlYn2jCnafp9bW41wKHrslIEEqthHODNDQnUiIGWaY2YzPdWx3+72hXGL0qpRjaWSBHEEMA0EvhWMU+///zIQOi6/NFpbk4VdyHkgOjdxRoOcDUK21p0tKNY7Y3j+3ly3nDIWrLKPgR5sqSQThGJXahVzhkOoPw37PNi5jrFErfICpzf7lgy6zxKfanAXZmOmPy3SNVqAJWAWD0x05/xdV5FLsfYm1p2BO3T2x47osKXfM9VtxTCE1C57RVFLp6tlUmhKmQGFaM7HZbRJRR1FtZfzBKqh9K5Aghi8t+5rzkpqvzeGcBBL8pof5AjtqF3fXQhf5AAAAAElFTkSuQmCC",
-    school: "Bright School, Vadodara",
-    date: "Apr 2017 - Apr 2018",
-    grade: "85%",
-    desc: "I completed my class 10 education at Bright School, Vadodara.",
-    degree: "GSEB",
-  },
+  // {
+  //   id: 2,
+  //   img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAdCAMAAAD8QJ61AAAAVFBMVEVHcEyXMV6aPWdCO4k8NIc4MYY4M4c5NIc+N4g8NYg/N4g9N4k8NIdBPIvmIiTjHybkHiXjHybkICbkHyXlISbjJCnkHybkICbkHyXiICjoISLjHyakUh5YAAAAHHRSTlMAFQlKw//v3palY36yMjjs/4st13kgZqCxSFbF+AG0+gAAAVtJREFUeAF0UQWCAjEMXMnEc1ec/38U90Il7hk+zjhOw+8zExgi+suGxEyhpuxf9WyzWLiKKsUXfQI0XignQnX6guWjFnHuAyg9vYz7EKx0wZcOKiM6g7pk+Pu/WCXZpwFwMWhtcTagsD6CnOCytdVlYn2jCnafp9bW41wKHrslIEEqthHODNDQnUiIGWaY2YzPdWx3+72hXGL0qpRjaWSBHEEMA0EvhWMU+///zIQOi6/NFpbk4VdyHkgOjdxRoOcDUK21p0tKNY7Y3j+3ly3nDIWrLKPgR5sqSQThGJXahVzhkOoPw37PNi5jrFErfICpzf7lgy6zxKfanAXZmOmPy3SNVqAJWAWD0x05/xdV5FLsfYm1p2BO3T2x47osKXfM9VtxTCE1C57RVFLp6tlUmhKmQGFaM7HZbRJRR1FtZfzBKqh9K5Aghi8t+5rzkpqvzeGcBBL8pof5AjtqF3fXQhf5AAAAAElFTkSuQmCC",
+  //   school: "Bright School, Vadodara",
+  //   date: "Apr 2017 - Apr 2018",
+  //   grade: "85%",
+  //   desc: "I completed my class 10 education at Bright School, Vadodara.",
+  //   degree: "GSEB",
+  // },
 ];
 
 export const projects = [
