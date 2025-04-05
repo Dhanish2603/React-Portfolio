@@ -67,7 +67,7 @@ export const skills = [
         image:
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
-      
+
       {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
@@ -108,8 +108,7 @@ export const skills = [
       },
       {
         name: "Nest Js",
-        image:
-          "https://docs.nestjs.com/assets/logo-small-gradient.svg",
+        image: "https://docs.nestjs.com/assets/logo-small-gradient.svg",
       },
       {
         name: "MySQL",
@@ -170,7 +169,6 @@ export const skills = [
 ];
 
 export const experiences = [
-
   // {
   //   id: 1,
   //   img: "https://wictronix.com/_next/static/media/wxblack.25feffd3.svg",
@@ -181,13 +179,13 @@ export const experiences = [
   //   skills: ["Html", "Css", "Javascript", "Bootstrap"],
   // },
   {
-    id:0,
+    id: 0,
     img: "https://actonate.com/wp-content/uploads/2020/01/logo.png",
     role: "Software Engineer",
     company: "Actonate IT Solutions Pvt Ltd.",
     date: "Jan 2024 - Present",
     desc: "Work on automating key business processes, including the development of a customer portal, scheduling engineers’ time slots, payment integration, and leave management system, with full automation of manual document work",
-    skills: ["Nest Js", "Next Js","AWS","MySQL"],
+    skills: ["Nest Js", "Next Js", "AWS", "MySQL"],
   },
   {
     id: 1,
@@ -236,8 +234,8 @@ export const education = [
     img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAA2FBMVEVHcEwtRkcwT1YmQ0sfMTYpR08lQUkpUl0rUFc0e4crSlIoPkJDSUcxVlonQEglREwkOkEi4f8ZtPIVsvIVs/QWsvIZtPEhv/AVsvIfvfMctvEYsvAWsvEUsPEYvP0VsvIUsfEhu/MVsvIUsvFT6/QUsfMctO8dKy4gwvxGkaMtRk3uMi/sLjLxLS3wGSHvHybJTEUaxf8ULTEBAAALBgQgyf8Yvv4ZLTMNGx4QBwIfco4dwv8XNjsjbIEeMzkfibAVIyYMFRgRHyAmeJAUFQoeLjMgNTslhKOIfRUAAAAASHRSTlMAO1h4xa+RgEkLmWwZK4RhnBpzrLmzfTuhTmOFi8yEppxZl5EPv2qEaRzGhNml//9Mitb/+3OqpPHxtJzNlLeyw/3fa7ugrMO/UasZAAACiElEQVR4AWRRVaLjIBQl9UYqXEEzUCh5nrz9r27KuJzfK8fEn2hW62az3e0PR/E/jut2s+/6/jCc2uNq+Hd8vrTdVQIiEqu+3a7/Hnfb7oraWOmkNX5Uzbb9k6Rvhy+gKHBFRONQdG3/azycGrzFxBBzzAk8oxrv3f6X7ssBTLHoITrHjzlOoxqHy+rHfP/0bIul4DNl9qCZNI8K+tN3Fy9PL8VZqkcMAF6hLNqiU9vvD16bpAJFiabIFKMM7CQh34o4Vw/9ZcAscypGa8/JMTIDe09ZXZo63ypJOjqD2o7mrkZboooE2XDXPua7C9+c1iClH8Xb+4coE+vgE08kDlX9SlvWOUFm8zbP8/s9BZAuM9Owq8mfYeLkHYR8fJ+XZRak8+Sj97TaPuanLliOuYZzrfNFQIiTS85RU1tat/7Bn0JmGfplXj6tTORdYkmrGvHQ25sOIZpcvDx+vigKUlKIfEvnTlR8bZMqsBsEgujEsy9F4u740+TjDi30/jfqUrfVcVduUx7OhdfMuMN2VhOXOzzOtXVvSOT5vh+Ek+n8ula1KEYQGaGdzC/abib0HqiDZukz5zY9nh2X829Riuywmq0PHZEoR2EqbDW4x0YUl4+cv3wqUCaH816QhIaPSpdoD2RbwOD8NQCEh9VS5OokvdlXfNQJ7g7nO2fgeX066/3XARvquo+CdPhdJDfOPxg2Ouq51RnS+/JgkwDYODfxRY6NbEzsbTg6RVEAJVEJ5LNDYz+y4UsfujoAFMIrMCLljkKhGqg++Mw0TeVtDM3mUZpXMRn9s9jwgdUSY4z4FXot/v7gd7q91LN6dSqkvborW1Yq/+C36lZ/VEuySKO2VEnVoJZeAOtYWmdZHv+1AAAAAElFTkSuQmCC",
     school: "Sardar Vallabhbhai Patel Institute of Technology Vasad",
     date: "Aug 2020 - Sep 2024",
-    grade: "8.53 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Sardar Vallabhbhai Patel Institute of Technology Vasad. I have completed 4 semesters and have a CGPA of 8.53. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    grade: "8.91 CGPA",
+    desc: "I have a Bachelor's degree in Computer Science and Engineering at Sardar Vallabhbhai Patel Institute of Technology Vasad. I have completed my graduation and have a CGPA of 8.91. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
